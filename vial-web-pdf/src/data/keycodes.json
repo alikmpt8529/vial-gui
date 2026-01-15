@@ -1,0 +1,3237 @@
+{
+  "0": {
+    "label": "",
+    "printable": null,
+    "tooltip": null
+  },
+  "1": {
+    "label": "\u25bd",
+    "printable": null,
+    "tooltip": null
+  },
+  "4": {
+    "label": "A",
+    "printable": "a",
+    "tooltip": null
+  },
+  "5": {
+    "label": "B",
+    "printable": "b",
+    "tooltip": null
+  },
+  "6": {
+    "label": "C",
+    "printable": "c",
+    "tooltip": null
+  },
+  "7": {
+    "label": "D",
+    "printable": "d",
+    "tooltip": null
+  },
+  "8": {
+    "label": "E",
+    "printable": "e",
+    "tooltip": null
+  },
+  "9": {
+    "label": "F",
+    "printable": "f",
+    "tooltip": null
+  },
+  "10": {
+    "label": "G",
+    "printable": "g",
+    "tooltip": null
+  },
+  "11": {
+    "label": "H",
+    "printable": "h",
+    "tooltip": null
+  },
+  "12": {
+    "label": "I",
+    "printable": "i",
+    "tooltip": null
+  },
+  "13": {
+    "label": "J",
+    "printable": "j",
+    "tooltip": null
+  },
+  "14": {
+    "label": "K",
+    "printable": "k",
+    "tooltip": null
+  },
+  "15": {
+    "label": "L",
+    "printable": "l",
+    "tooltip": null
+  },
+  "16": {
+    "label": "M",
+    "printable": "m",
+    "tooltip": null
+  },
+  "17": {
+    "label": "N",
+    "printable": "n",
+    "tooltip": null
+  },
+  "18": {
+    "label": "O",
+    "printable": "o",
+    "tooltip": null
+  },
+  "19": {
+    "label": "P",
+    "printable": "p",
+    "tooltip": null
+  },
+  "20": {
+    "label": "Q",
+    "printable": "q",
+    "tooltip": null
+  },
+  "21": {
+    "label": "R",
+    "printable": "r",
+    "tooltip": null
+  },
+  "22": {
+    "label": "S",
+    "printable": "s",
+    "tooltip": null
+  },
+  "23": {
+    "label": "T",
+    "printable": "t",
+    "tooltip": null
+  },
+  "24": {
+    "label": "U",
+    "printable": "u",
+    "tooltip": null
+  },
+  "25": {
+    "label": "V",
+    "printable": "v",
+    "tooltip": null
+  },
+  "26": {
+    "label": "W",
+    "printable": "w",
+    "tooltip": null
+  },
+  "27": {
+    "label": "X",
+    "printable": "x",
+    "tooltip": null
+  },
+  "28": {
+    "label": "Y",
+    "printable": "y",
+    "tooltip": null
+  },
+  "29": {
+    "label": "Z",
+    "printable": "z",
+    "tooltip": null
+  },
+  "30": {
+    "label": "!\n1",
+    "printable": "1",
+    "tooltip": null
+  },
+  "31": {
+    "label": "@\n2",
+    "printable": "2",
+    "tooltip": null
+  },
+  "32": {
+    "label": "#\n3",
+    "printable": "3",
+    "tooltip": null
+  },
+  "33": {
+    "label": "$\n4",
+    "printable": "4",
+    "tooltip": null
+  },
+  "34": {
+    "label": "%\n5",
+    "printable": "5",
+    "tooltip": null
+  },
+  "35": {
+    "label": "^\n6",
+    "printable": "6",
+    "tooltip": null
+  },
+  "36": {
+    "label": "&\n7",
+    "printable": "7",
+    "tooltip": null
+  },
+  "37": {
+    "label": "*\n8",
+    "printable": "8",
+    "tooltip": null
+  },
+  "38": {
+    "label": "(\n9",
+    "printable": "9",
+    "tooltip": null
+  },
+  "39": {
+    "label": ")\n0",
+    "printable": "0",
+    "tooltip": null
+  },
+  "40": {
+    "label": "Enter",
+    "printable": null,
+    "tooltip": null
+  },
+  "41": {
+    "label": "Esc",
+    "printable": null,
+    "tooltip": null
+  },
+  "42": {
+    "label": "Bksp",
+    "printable": null,
+    "tooltip": null
+  },
+  "43": {
+    "label": "Tab",
+    "printable": null,
+    "tooltip": null
+  },
+  "44": {
+    "label": "Space",
+    "printable": null,
+    "tooltip": null
+  },
+  "45": {
+    "label": "_\n-",
+    "printable": "-",
+    "tooltip": null
+  },
+  "46": {
+    "label": "+\n=",
+    "printable": "=",
+    "tooltip": null
+  },
+  "47": {
+    "label": "{\n[",
+    "printable": "[",
+    "tooltip": null
+  },
+  "48": {
+    "label": "}\n]",
+    "printable": "]",
+    "tooltip": null
+  },
+  "49": {
+    "label": "|\n\\",
+    "printable": "\\",
+    "tooltip": null
+  },
+  "51": {
+    "label": ":\n;",
+    "printable": ";",
+    "tooltip": null
+  },
+  "52": {
+    "label": "\"\n'",
+    "printable": "'",
+    "tooltip": null
+  },
+  "53": {
+    "label": "~\n`",
+    "printable": "`",
+    "tooltip": null
+  },
+  "54": {
+    "label": "<\n,",
+    "printable": ",",
+    "tooltip": null
+  },
+  "55": {
+    "label": ">\n.",
+    "printable": ".",
+    "tooltip": null
+  },
+  "56": {
+    "label": "?\n/",
+    "printable": "/",
+    "tooltip": null
+  },
+  "57": {
+    "label": "Caps\nLock",
+    "printable": null,
+    "tooltip": null
+  },
+  "58": {
+    "label": "F1",
+    "printable": null,
+    "tooltip": null
+  },
+  "59": {
+    "label": "F2",
+    "printable": null,
+    "tooltip": null
+  },
+  "60": {
+    "label": "F3",
+    "printable": null,
+    "tooltip": null
+  },
+  "61": {
+    "label": "F4",
+    "printable": null,
+    "tooltip": null
+  },
+  "62": {
+    "label": "F5",
+    "printable": null,
+    "tooltip": null
+  },
+  "63": {
+    "label": "F6",
+    "printable": null,
+    "tooltip": null
+  },
+  "64": {
+    "label": "F7",
+    "printable": null,
+    "tooltip": null
+  },
+  "65": {
+    "label": "F8",
+    "printable": null,
+    "tooltip": null
+  },
+  "66": {
+    "label": "F9",
+    "printable": null,
+    "tooltip": null
+  },
+  "67": {
+    "label": "F10",
+    "printable": null,
+    "tooltip": null
+  },
+  "68": {
+    "label": "F11",
+    "printable": null,
+    "tooltip": null
+  },
+  "69": {
+    "label": "F12",
+    "printable": null,
+    "tooltip": null
+  },
+  "101": {
+    "label": "Menu",
+    "printable": null,
+    "tooltip": null
+  },
+  "224": {
+    "label": "LCtrl",
+    "printable": null,
+    "tooltip": null
+  },
+  "225": {
+    "label": "LShift",
+    "printable": null,
+    "tooltip": null
+  },
+  "226": {
+    "label": "LAlt",
+    "printable": null,
+    "tooltip": null
+  },
+  "227": {
+    "label": "LGui",
+    "printable": null,
+    "tooltip": null
+  },
+  "228": {
+    "label": "RCtrl",
+    "printable": null,
+    "tooltip": null
+  },
+  "229": {
+    "label": "RShift",
+    "printable": null,
+    "tooltip": null
+  },
+  "230": {
+    "label": "RAlt",
+    "printable": null,
+    "tooltip": null
+  },
+  "231": {
+    "label": "RGui",
+    "printable": null,
+    "tooltip": null
+  },
+  "83": {
+    "label": "Num\nLock",
+    "printable": null,
+    "tooltip": null
+  },
+  "84": {
+    "label": "/",
+    "printable": null,
+    "tooltip": null
+  },
+  "85": {
+    "label": "*",
+    "printable": null,
+    "tooltip": null
+  },
+  "86": {
+    "label": "-",
+    "printable": null,
+    "tooltip": null
+  },
+  "87": {
+    "label": "+",
+    "printable": null,
+    "tooltip": null
+  },
+  "88": {
+    "label": "Num\nEnter",
+    "printable": null,
+    "tooltip": null
+  },
+  "89": {
+    "label": "1",
+    "printable": null,
+    "tooltip": null
+  },
+  "90": {
+    "label": "2",
+    "printable": null,
+    "tooltip": null
+  },
+  "91": {
+    "label": "3",
+    "printable": null,
+    "tooltip": null
+  },
+  "92": {
+    "label": "4",
+    "printable": null,
+    "tooltip": null
+  },
+  "93": {
+    "label": "5",
+    "printable": null,
+    "tooltip": null
+  },
+  "94": {
+    "label": "6",
+    "printable": null,
+    "tooltip": null
+  },
+  "95": {
+    "label": "7",
+    "printable": null,
+    "tooltip": null
+  },
+  "96": {
+    "label": "8",
+    "printable": null,
+    "tooltip": null
+  },
+  "97": {
+    "label": "9",
+    "printable": null,
+    "tooltip": null
+  },
+  "98": {
+    "label": "0",
+    "printable": null,
+    "tooltip": null
+  },
+  "99": {
+    "label": ".",
+    "printable": null,
+    "tooltip": null
+  },
+  "103": {
+    "label": "=",
+    "printable": null,
+    "tooltip": null
+  },
+  "133": {
+    "label": ",",
+    "printable": null,
+    "tooltip": null
+  },
+  "70": {
+    "label": "Print\nScreen",
+    "printable": null,
+    "tooltip": null
+  },
+  "71": {
+    "label": "Scroll\nLock",
+    "printable": null,
+    "tooltip": null
+  },
+  "72": {
+    "label": "Pause",
+    "printable": null,
+    "tooltip": null
+  },
+  "73": {
+    "label": "Insert",
+    "printable": null,
+    "tooltip": null
+  },
+  "74": {
+    "label": "Home",
+    "printable": null,
+    "tooltip": null
+  },
+  "75": {
+    "label": "Page\nUp",
+    "printable": null,
+    "tooltip": null
+  },
+  "76": {
+    "label": "Del",
+    "printable": null,
+    "tooltip": null
+  },
+  "77": {
+    "label": "End",
+    "printable": null,
+    "tooltip": null
+  },
+  "78": {
+    "label": "Page\nDown",
+    "printable": null,
+    "tooltip": null
+  },
+  "79": {
+    "label": "Right",
+    "printable": null,
+    "tooltip": null
+  },
+  "80": {
+    "label": "Left",
+    "printable": null,
+    "tooltip": null
+  },
+  "81": {
+    "label": "Down",
+    "printable": null,
+    "tooltip": null
+  },
+  "82": {
+    "label": "Up",
+    "printable": null,
+    "tooltip": null
+  },
+  "565": {
+    "label": "~",
+    "printable": null,
+    "tooltip": null
+  },
+  "542": {
+    "label": "!",
+    "printable": null,
+    "tooltip": null
+  },
+  "543": {
+    "label": "@",
+    "printable": null,
+    "tooltip": null
+  },
+  "544": {
+    "label": "#",
+    "printable": null,
+    "tooltip": null
+  },
+  "545": {
+    "label": "$",
+    "printable": null,
+    "tooltip": null
+  },
+  "546": {
+    "label": "%",
+    "printable": null,
+    "tooltip": null
+  },
+  "547": {
+    "label": "^",
+    "printable": null,
+    "tooltip": null
+  },
+  "548": {
+    "label": "&",
+    "printable": null,
+    "tooltip": null
+  },
+  "549": {
+    "label": "*",
+    "printable": null,
+    "tooltip": null
+  },
+  "550": {
+    "label": "(",
+    "printable": null,
+    "tooltip": null
+  },
+  "551": {
+    "label": ")",
+    "printable": null,
+    "tooltip": null
+  },
+  "557": {
+    "label": "_",
+    "printable": null,
+    "tooltip": null
+  },
+  "558": {
+    "label": "+",
+    "printable": null,
+    "tooltip": null
+  },
+  "559": {
+    "label": "{",
+    "printable": null,
+    "tooltip": null
+  },
+  "560": {
+    "label": "}",
+    "printable": null,
+    "tooltip": null
+  },
+  "566": {
+    "label": "<",
+    "printable": null,
+    "tooltip": null
+  },
+  "567": {
+    "label": ">",
+    "printable": null,
+    "tooltip": null
+  },
+  "563": {
+    "label": ":",
+    "printable": null,
+    "tooltip": null
+  },
+  "561": {
+    "label": "|",
+    "printable": null,
+    "tooltip": null
+  },
+  "568": {
+    "label": "?",
+    "printable": null,
+    "tooltip": null
+  },
+  "564": {
+    "label": "\"",
+    "printable": null,
+    "tooltip": null
+  },
+  "50": {
+    "label": "~\n#",
+    "printable": null,
+    "tooltip": "Non-US # and ~"
+  },
+  "100": {
+    "label": "|\n\\",
+    "printable": null,
+    "tooltip": "Non-US \\ and |"
+  },
+  "135": {
+    "label": "_\n\\",
+    "printable": null,
+    "tooltip": "JIS \\ and _"
+  },
+  "136": {
+    "label": "\u30ab\u30bf\u30ab\u30ca\n\u3072\u3089\u304c\u306a",
+    "printable": null,
+    "tooltip": "JIS Katakana/Hiragana"
+  },
+  "137": {
+    "label": "|\n\u00a5",
+    "printable": null,
+    "tooltip": null
+  },
+  "138": {
+    "label": "\u5909\u63db",
+    "printable": null,
+    "tooltip": "JIS Henkan"
+  },
+  "139": {
+    "label": "\u7121\u5909\u63db",
+    "printable": null,
+    "tooltip": "JIS Muhenkan"
+  },
+  "144": {
+    "label": "\ud55c\uc601\n\u304b\u306a",
+    "printable": null,
+    "tooltip": "Korean Han/Yeong / JP Mac Kana"
+  },
+  "145": {
+    "label": "\u6f22\u5b57\n\u82f1\u6570",
+    "printable": null,
+    "tooltip": "Korean Hanja / JP Mac Eisu"
+  },
+  "23552": {
+    "label": "Boot-\nloader",
+    "printable": null,
+    "tooltip": "Put the keyboard into bootloader mode for flashing"
+  },
+  "39325": {
+    "label": "Reboot",
+    "printable": null,
+    "tooltip": "Reboots the keyboard. Does not load the bootloader"
+  },
+  "23775": {
+    "label": "Clear\nEEPROM",
+    "printable": null,
+    "tooltip": "Reinitializes the keyboard's EEPROM (persistent memory)"
+  },
+  "21762": {
+    "label": "OSM\nLSft",
+    "printable": null,
+    "tooltip": "Enable Left Shift for one keypress"
+  },
+  "21761": {
+    "label": "OSM\nLCtl",
+    "printable": null,
+    "tooltip": "Enable Left Control for one keypress"
+  },
+  "21764": {
+    "label": "OSM\nLAlt",
+    "printable": null,
+    "tooltip": "Enable Left Alt for one keypress"
+  },
+  "21768": {
+    "label": "OSM\nLGUI",
+    "printable": null,
+    "tooltip": "Enable Left GUI for one keypress"
+  },
+  "21778": {
+    "label": "OSM\nRSft",
+    "printable": null,
+    "tooltip": "Enable Right Shift for one keypress"
+  },
+  "21777": {
+    "label": "OSM\nRCtl",
+    "printable": null,
+    "tooltip": "Enable Right Control for one keypress"
+  },
+  "21780": {
+    "label": "OSM\nRAlt",
+    "printable": null,
+    "tooltip": "Enable Right Alt for one keypress"
+  },
+  "21784": {
+    "label": "OSM\nRGUI",
+    "printable": null,
+    "tooltip": "Enable Right GUI for one keypress"
+  },
+  "21763": {
+    "label": "OSM\nCS",
+    "printable": null,
+    "tooltip": "Enable Left Control and Shift for one keypress"
+  },
+  "21765": {
+    "label": "OSM\nCA",
+    "printable": null,
+    "tooltip": "Enable Left Control and Alt for one keypress"
+  },
+  "21769": {
+    "label": "OSM\nCG",
+    "printable": null,
+    "tooltip": "Enable Left Control and GUI for one keypress"
+  },
+  "21766": {
+    "label": "OSM\nSA",
+    "printable": null,
+    "tooltip": "Enable Left Shift and Alt for one keypress"
+  },
+  "21770": {
+    "label": "OSM\nSG",
+    "printable": null,
+    "tooltip": "Enable Left Shift and GUI for one keypress"
+  },
+  "21772": {
+    "label": "OSM\nAG",
+    "printable": null,
+    "tooltip": "Enable Left Alt and GUI for one keypress"
+  },
+  "21779": {
+    "label": "OSM\nRCS",
+    "printable": null,
+    "tooltip": "Enable Right Control and Shift for one keypress"
+  },
+  "21781": {
+    "label": "OSM\nRCA",
+    "printable": null,
+    "tooltip": "Enable Right Control and Alt for one keypress"
+  },
+  "21785": {
+    "label": "OSM\nRCG",
+    "printable": null,
+    "tooltip": "Enable Right Control and GUI for one keypress"
+  },
+  "21782": {
+    "label": "OSM\nRSA",
+    "printable": null,
+    "tooltip": "Enable Right Shift and Alt for one keypress"
+  },
+  "21786": {
+    "label": "OSM\nRSG",
+    "printable": null,
+    "tooltip": "Enable Right Shift and GUI for one keypress"
+  },
+  "21788": {
+    "label": "OSM\nRAG",
+    "printable": null,
+    "tooltip": "Enable Right Alt and GUI for one keypress"
+  },
+  "21771": {
+    "label": "OSM\nCSG",
+    "printable": null,
+    "tooltip": "Enable Left Control, Shift, and GUI for one keypress"
+  },
+  "21773": {
+    "label": "OSM\nCAG",
+    "printable": null,
+    "tooltip": "Enable Left Control, Alt, and GUI for one keypress"
+  },
+  "21774": {
+    "label": "OSM\nSAG",
+    "printable": null,
+    "tooltip": "Enable Left Shift, Alt, and GUI for one keypress"
+  },
+  "21787": {
+    "label": "OSM\nRCSG",
+    "printable": null,
+    "tooltip": "Enable Right Control, Shift, and GUI for one keypress"
+  },
+  "21789": {
+    "label": "OSM\nRCAG",
+    "printable": null,
+    "tooltip": "Enable Right Control, Alt, and GUI for one keypress"
+  },
+  "21790": {
+    "label": "OSM\nRSAG",
+    "printable": null,
+    "tooltip": "Enable Right Shift, Alt, and GUI for one keypress"
+  },
+  "21767": {
+    "label": "OSM\nMeh",
+    "printable": null,
+    "tooltip": "Enable Left Control, Shift, and Alt for one keypress"
+  },
+  "21775": {
+    "label": "OSM\nHyper",
+    "printable": null,
+    "tooltip": "Enable Left Control, Shift, Alt, and GUI for one keypress"
+  },
+  "21783": {
+    "label": "OSM\nRMeh",
+    "printable": null,
+    "tooltip": "Enable Right Control, Shift, and Alt for one keypress"
+  },
+  "21791": {
+    "label": "OSM\nRHyp",
+    "printable": null,
+    "tooltip": "Enable Right Control, Shift, Alt, and GUI for one keypress"
+  },
+  "512": {
+    "label": "LSft\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "256": {
+    "label": "LCtl\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "1024": {
+    "label": "LAlt\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "2048": {
+    "label": "LGui\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "4608": {
+    "label": "RSft\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "4352": {
+    "label": "RCtl\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "5120": {
+    "label": "RAlt\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "6144": {
+    "label": "RGui\n(kc)",
+    "printable": null,
+    "tooltip": null
+  },
+  "768": {
+    "label": "LCS\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LSFT"
+  },
+  "1280": {
+    "label": "LCA\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LALT"
+  },
+  "2304": {
+    "label": "LCG\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LGUI"
+  },
+  "1536": {
+    "label": "LSA\n(kc)",
+    "printable": null,
+    "tooltip": "LSFT + LALT"
+  },
+  "3072": {
+    "label": "LAG\n(kc)",
+    "printable": null,
+    "tooltip": "LALT + LGUI"
+  },
+  "2560": {
+    "label": "LSG\n(kc)",
+    "printable": null,
+    "tooltip": "LGUI + LSFT"
+  },
+  "3328": {
+    "label": "LCAG\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LALT + LGUI"
+  },
+  "6400": {
+    "label": "RCG\n(kc)",
+    "printable": null,
+    "tooltip": "RCTL + RGUI"
+  },
+  "1792": {
+    "label": "Meh\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LSFT + LALT"
+  },
+  "3840": {
+    "label": "Hyper\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LSFT + LALT + LGUI"
+  },
+  "25088": {
+    "label": "LSft_T\n(kc)",
+    "printable": null,
+    "tooltip": "Left Shift when held, kc when tapped"
+  },
+  "24832": {
+    "label": "LCtl_T\n(kc)",
+    "printable": null,
+    "tooltip": "Left Control when held, kc when tapped"
+  },
+  "25600": {
+    "label": "LAlt_T\n(kc)",
+    "printable": null,
+    "tooltip": "Left Alt when held, kc when tapped"
+  },
+  "26624": {
+    "label": "LGui_T\n(kc)",
+    "printable": null,
+    "tooltip": "Left GUI when held, kc when tapped"
+  },
+  "29184": {
+    "label": "RSft_T\n(kc)",
+    "printable": null,
+    "tooltip": "Right Shift when held, kc when tapped"
+  },
+  "28928": {
+    "label": "RCtl_T\n(kc)",
+    "printable": null,
+    "tooltip": "Right Control when held, kc when tapped"
+  },
+  "29696": {
+    "label": "RAlt_T\n(kc)",
+    "printable": null,
+    "tooltip": "Right Alt when held, kc when tapped"
+  },
+  "30720": {
+    "label": "RGui_T\n(kc)",
+    "printable": null,
+    "tooltip": "Right GUI when held, kc when tapped"
+  },
+  "25344": {
+    "label": "LCS_T\n(kc)",
+    "printable": null,
+    "tooltip": "Left Control + Left Shift when held, kc when tapped"
+  },
+  "25856": {
+    "label": "LCA_T\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LALT when held, kc when tapped"
+  },
+  "26880": {
+    "label": "LCG_T\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LGUI when held, kc when tapped"
+  },
+  "26112": {
+    "label": "LSA_T\n(kc)",
+    "printable": null,
+    "tooltip": "LSFT + LALT when held, kc when tapped"
+  },
+  "27648": {
+    "label": "LAG_T\n(kc)",
+    "printable": null,
+    "tooltip": "LALT + LGUI when held, kc when tapped"
+  },
+  "27136": {
+    "label": "LSG_T\n(kc)",
+    "printable": null,
+    "tooltip": "LGUI + LSFT when held, kc when tapped"
+  },
+  "27904": {
+    "label": "LCAG_T\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LALT + LGUI when held, kc when tapped"
+  },
+  "30976": {
+    "label": "RCG_T\n(kc)",
+    "printable": null,
+    "tooltip": "RCTL + RGUI when held, kc when tapped"
+  },
+  "32000": {
+    "label": "RCAG_T\n(kc)",
+    "printable": null,
+    "tooltip": "RCTL + RALT + RGUI when held, kc when tapped"
+  },
+  "26368": {
+    "label": "Meh_T\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LSFT + LALT when held, kc when tapped"
+  },
+  "28416": {
+    "label": "ALL_T\n(kc)",
+    "printable": null,
+    "tooltip": "LCTL + LSFT + LALT + LGUI when held, kc when tapped"
+  },
+  "23574": {
+    "label": "~\nEsc",
+    "printable": null,
+    "tooltip": "Esc normally, but ~ when Shift or GUI is pressed"
+  },
+  "23767": {
+    "label": "LS\n(",
+    "printable": null,
+    "tooltip": "Left Shift when held, ( when tapped"
+  },
+  "23768": {
+    "label": "RS\n)",
+    "printable": null,
+    "tooltip": "Right Shift when held, ) when tapped"
+  },
+  "23795": {
+    "label": "LC\n(",
+    "printable": null,
+    "tooltip": "Left Control when held, ( when tapped"
+  },
+  "23796": {
+    "label": "RC\n)",
+    "printable": null,
+    "tooltip": "Right Control when held, ) when tapped"
+  },
+  "23797": {
+    "label": "LA\n(",
+    "printable": null,
+    "tooltip": "Left Alt when held, ( when tapped"
+  },
+  "23798": {
+    "label": "RA\n)",
+    "printable": null,
+    "tooltip": "Right Alt when held, ) when tapped"
+  },
+  "23769": {
+    "label": "RS\nEnter",
+    "printable": null,
+    "tooltip": "Right Shift when held, Enter when tapped"
+  },
+  "23554": {
+    "label": "Swap\nCtrl\nCaps",
+    "printable": null,
+    "tooltip": "Swap Caps Lock and Left Control"
+  },
+  "23563": {
+    "label": "Unswap\nCtrl\nCaps",
+    "printable": null,
+    "tooltip": "Unswap Caps Lock and Left Control"
+  },
+  "23555": {
+    "label": "Caps\nto\nCtrl",
+    "printable": null,
+    "tooltip": "Treat Caps Lock as Control"
+  },
+  "23564": {
+    "label": "Caps\nnot to\nCtrl",
+    "printable": null,
+    "tooltip": "Stop treating Caps Lock as Control"
+  },
+  "23802": {
+    "label": "Swap\nLCtl\nLGui",
+    "printable": null,
+    "tooltip": "Swap Left Control and GUI"
+  },
+  "23804": {
+    "label": "Unswap\nLCtl\nLGui",
+    "printable": null,
+    "tooltip": "Unswap Left Control and GUI"
+  },
+  "23803": {
+    "label": "Swap\nRCtl\nRGui",
+    "printable": null,
+    "tooltip": "Swap Right Control and GUI"
+  },
+  "23805": {
+    "label": "Unswap\nRCtl\nRGui",
+    "printable": null,
+    "tooltip": "Unswap Right Control and GUI"
+  },
+  "23806": {
+    "label": "Swap\nCtl\nGui",
+    "printable": null,
+    "tooltip": "Swap Control and GUI on both sides"
+  },
+  "23807": {
+    "label": "Unswap\nCtl\nGui",
+    "printable": null,
+    "tooltip": "Unswap Control and GUI on both sides"
+  },
+  "23808": {
+    "label": "Toggle\nCtl\nGui",
+    "printable": null,
+    "tooltip": "Toggle Control and GUI swap on both sides"
+  },
+  "23556": {
+    "label": "Swap\nLAlt\nLGui",
+    "printable": null,
+    "tooltip": "Swap Left Alt and GUI"
+  },
+  "23565": {
+    "label": "Unswap\nLAlt\nLGui",
+    "printable": null,
+    "tooltip": "Unswap Left Alt and GUI"
+  },
+  "23557": {
+    "label": "Swap\nRAlt\nRGui",
+    "printable": null,
+    "tooltip": "Swap Right Alt and GUI"
+  },
+  "23566": {
+    "label": "Unswap\nRAlt\nRGui",
+    "printable": null,
+    "tooltip": "Unswap Right Alt and GUI"
+  },
+  "23562": {
+    "label": "Swap\nAlt\nGui",
+    "printable": null,
+    "tooltip": "Swap Alt and GUI on both sides"
+  },
+  "23571": {
+    "label": "Unswap\nAlt\nGui",
+    "printable": null,
+    "tooltip": "Unswap Alt and GUI on both sides"
+  },
+  "23573": {
+    "label": "Toggle\nAlt\nGui",
+    "printable": null,
+    "tooltip": "Toggle Alt and GUI swap on both sides"
+  },
+  "23558": {
+    "label": "GUI\nOff",
+    "printable": null,
+    "tooltip": "Disable the GUI keys"
+  },
+  "23567": {
+    "label": "GUI\nOn",
+    "printable": null,
+    "tooltip": "Enable the GUI keys"
+  },
+  "629186": {
+    "label": "GUI\nToggle",
+    "printable": null,
+    "tooltip": "Toggle the GUI keys on and off"
+  },
+  "23559": {
+    "label": "Swap\n`\nEsc",
+    "printable": null,
+    "tooltip": "Swap ` and Escape"
+  },
+  "23568": {
+    "label": "Unswap\n`\nEsc",
+    "printable": null,
+    "tooltip": "Unswap ` and Escape"
+  },
+  "23560": {
+    "label": "Swap\n\\\nBS",
+    "printable": null,
+    "tooltip": "Swap \\ and Backspace"
+  },
+  "23569": {
+    "label": "Unswap\n\\\nBS",
+    "printable": null,
+    "tooltip": "Unswap \\ and Backspace"
+  },
+  "23561": {
+    "label": "NKRO\nOn",
+    "printable": null,
+    "tooltip": "Enable N-key rollover"
+  },
+  "23570": {
+    "label": "NKRO\nOff",
+    "printable": null,
+    "tooltip": "Disable N-key rollover"
+  },
+  "23572": {
+    "label": "NKRO\nToggle",
+    "printable": null,
+    "tooltip": "Toggle N-key rollover"
+  },
+  "23809": {
+    "label": "EEH\nLeft",
+    "printable": null,
+    "tooltip": "Set the master half of a split keyboard as the left hand (for EE_HANDS)"
+  },
+  "23810": {
+    "label": "EEH\nRight",
+    "printable": null,
+    "tooltip": "Set the master half of a split keyboard as the right hand (for EE_HANDS)"
+  },
+  "23581": {
+    "label": "Audio\nON",
+    "printable": null,
+    "tooltip": "Audio mode on"
+  },
+  "23582": {
+    "label": "Audio\nOFF",
+    "printable": null,
+    "tooltip": "Audio mode off"
+  },
+  "23583": {
+    "label": "Audio\nToggle",
+    "printable": null,
+    "tooltip": "Toggles Audio mode"
+  },
+  "23584": {
+    "label": "Clicky\nToggle",
+    "printable": null,
+    "tooltip": "Toggles Audio clicky mode"
+  },
+  "23587": {
+    "label": "Clicky\nUp",
+    "printable": null,
+    "tooltip": "Increases frequency of the clicks"
+  },
+  "23588": {
+    "label": "Clicky\nDown",
+    "printable": null,
+    "tooltip": "Decreases frequency of the clicks"
+  },
+  "23589": {
+    "label": "Clicky\nReset",
+    "printable": null,
+    "tooltip": "Resets frequency to default"
+  },
+  "23590": {
+    "label": "Music\nOn",
+    "printable": null,
+    "tooltip": "Turns on Music Mode"
+  },
+  "23591": {
+    "label": "Music\nOff",
+    "printable": null,
+    "tooltip": "Turns off Music Mode"
+  },
+  "23592": {
+    "label": "Music\nToggle",
+    "printable": null,
+    "tooltip": "Toggles Music Mode"
+  },
+  "23593": {
+    "label": "Music\nCycle",
+    "printable": null,
+    "tooltip": "Cycles through the music modes"
+  },
+  "23782": {
+    "label": "Haptic\nOn",
+    "printable": null,
+    "tooltip": "Turn haptic feedback on"
+  },
+  "23783": {
+    "label": "Haptic\nOff",
+    "printable": null,
+    "tooltip": "Turn haptic feedback off"
+  },
+  "23784": {
+    "label": "Haptic\nToggle",
+    "printable": null,
+    "tooltip": "Toggle haptic feedback on/off"
+  },
+  "23785": {
+    "label": "Haptic\nReset",
+    "printable": null,
+    "tooltip": "Reset haptic feedback config to default"
+  },
+  "23786": {
+    "label": "Haptic\nFeed\nback",
+    "printable": null,
+    "tooltip": "Toggle feedback to occur on keypress, release or both"
+  },
+  "23787": {
+    "label": "Haptic\nBuzz",
+    "printable": null,
+    "tooltip": "Toggle solenoid buzz on/off"
+  },
+  "23788": {
+    "label": "Haptic\nNext",
+    "printable": null,
+    "tooltip": "Go to next DRV2605L waveform"
+  },
+  "23789": {
+    "label": "Haptic\nPrev",
+    "printable": null,
+    "tooltip": "Go to previous DRV2605L waveform"
+  },
+  "23790": {
+    "label": "Haptic\nCont.",
+    "printable": null,
+    "tooltip": "Toggle continuous haptic mode on/off"
+  },
+  "23791": {
+    "label": "Haptic\n+",
+    "printable": null,
+    "tooltip": "Increase DRV2605L continous haptic strength"
+  },
+  "23792": {
+    "label": "Haptic\n-",
+    "printable": null,
+    "tooltip": "Decrease DRV2605L continous haptic strength"
+  },
+  "23793": {
+    "label": "Haptic\nDwell+",
+    "printable": null,
+    "tooltip": "Increase Solenoid dwell time"
+  },
+  "23794": {
+    "label": "Haptic\nDwell-",
+    "printable": null,
+    "tooltip": "Decrease Solenoid dwell time"
+  },
+  "23576": {
+    "label": "Auto-\nshift\nDown",
+    "printable": null,
+    "tooltip": "Lower the Auto Shift timeout variable (down)"
+  },
+  "23575": {
+    "label": "Auto-\nshift\nUp",
+    "printable": null,
+    "tooltip": "Raise the Auto Shift timeout variable (up)"
+  },
+  "23577": {
+    "label": "Auto-\nshift\nReport",
+    "printable": null,
+    "tooltip": "Report your current Auto Shift timeout value"
+  },
+  "23579": {
+    "label": "Auto-\nshift\nOn",
+    "printable": null,
+    "tooltip": "Turns on the Auto Shift Function"
+  },
+  "23580": {
+    "label": "Auto-\nshift\nOff",
+    "printable": null,
+    "tooltip": "Turns off the Auto Shift Function"
+  },
+  "23578": {
+    "label": "Auto-\nshift\nToggle",
+    "printable": null,
+    "tooltip": "Toggles the state of the Auto Shift feature"
+  },
+  "23799": {
+    "label": "Combo\nOn",
+    "printable": null,
+    "tooltip": "Turns on Combo feature"
+  },
+  "23800": {
+    "label": "Combo\nOff",
+    "printable": null,
+    "tooltip": "Turns off Combo feature"
+  },
+  "23801": {
+    "label": "Combo\nToggle",
+    "printable": null,
+    "tooltip": "Toggles Combo feature on and off"
+  },
+  "39326": {
+    "label": "Caps\nWord",
+    "printable": null,
+    "tooltip": "Capitalizes until end of current word"
+  },
+  "629184": {
+    "label": "Repeat",
+    "printable": null,
+    "tooltip": "Repeats the last pressed key"
+  },
+  "629185": {
+    "label": "Alt\nRepeat",
+    "printable": null,
+    "tooltip": "Alt repeats the last pressed key"
+  },
+  "23743": {
+    "label": "BL\nToggle",
+    "printable": null,
+    "tooltip": "Turn the backlight on or off"
+  },
+  "23744": {
+    "label": "BL\nCycle",
+    "printable": null,
+    "tooltip": "Cycle through backlight levels"
+  },
+  "23745": {
+    "label": "BL\nBreath",
+    "printable": null,
+    "tooltip": "Toggle backlight breathing"
+  },
+  "23739": {
+    "label": "BL On",
+    "printable": null,
+    "tooltip": "Set the backlight to max brightness"
+  },
+  "23740": {
+    "label": "BL Off",
+    "printable": null,
+    "tooltip": "Turn the backlight off"
+  },
+  "23742": {
+    "label": "BL +",
+    "printable": null,
+    "tooltip": "Increase the backlight level"
+  },
+  "23741": {
+    "label": "BL - ",
+    "printable": null,
+    "tooltip": "Decrease the backlight level"
+  },
+  "23746": {
+    "label": "RGB\nToggle",
+    "printable": null,
+    "tooltip": "Toggle RGB lighting on or off"
+  },
+  "23747": {
+    "label": "RGB\nMode +",
+    "printable": null,
+    "tooltip": "Next RGB mode"
+  },
+  "23748": {
+    "label": "RGB\nMode -",
+    "printable": null,
+    "tooltip": "Previous RGB mode"
+  },
+  "23749": {
+    "label": "Hue +",
+    "printable": null,
+    "tooltip": "Increase hue"
+  },
+  "23750": {
+    "label": "Hue -",
+    "printable": null,
+    "tooltip": "Decrease hue"
+  },
+  "23751": {
+    "label": "Sat +",
+    "printable": null,
+    "tooltip": "Increase saturation"
+  },
+  "23752": {
+    "label": "Sat -",
+    "printable": null,
+    "tooltip": "Decrease saturation"
+  },
+  "23753": {
+    "label": "Bright +",
+    "printable": null,
+    "tooltip": "Increase value"
+  },
+  "23754": {
+    "label": "Bright -",
+    "printable": null,
+    "tooltip": "Decrease value"
+  },
+  "23755": {
+    "label": "Effect +",
+    "printable": null,
+    "tooltip": "Increase RGB effect speed"
+  },
+  "23756": {
+    "label": "Effect -",
+    "printable": null,
+    "tooltip": "Decrease RGB effect speed"
+  },
+  "23757": {
+    "label": "RGB\nMode P",
+    "printable": null,
+    "tooltip": "RGB Mode: Plain"
+  },
+  "23758": {
+    "label": "RGB\nMode B",
+    "printable": null,
+    "tooltip": "RGB Mode: Breathe"
+  },
+  "23759": {
+    "label": "RGB\nMode R",
+    "printable": null,
+    "tooltip": "RGB Mode: Rainbow"
+  },
+  "23760": {
+    "label": "RGB\nMode SW",
+    "printable": null,
+    "tooltip": "RGB Mode: Swirl"
+  },
+  "23761": {
+    "label": "RGB\nMode SN",
+    "printable": null,
+    "tooltip": "RGB Mode: Snake"
+  },
+  "23762": {
+    "label": "RGB\nMode K",
+    "printable": null,
+    "tooltip": "RGB Mode: Knight Rider"
+  },
+  "23763": {
+    "label": "RGB\nMode X",
+    "printable": null,
+    "tooltip": "RGB Mode: Christmas"
+  },
+  "23764": {
+    "label": "RGB\nMode G",
+    "printable": null,
+    "tooltip": "RGB Mode: Gradient"
+  },
+  "23765": {
+    "label": "RGB\nMode T",
+    "printable": null,
+    "tooltip": "RGB Mode: Test"
+  },
+  "39312": {
+    "label": "RGBM\nOn",
+    "printable": null,
+    "tooltip": "Turn on RGB Matrix"
+  },
+  "39313": {
+    "label": "RGBM\nOff",
+    "printable": null,
+    "tooltip": "Turn off RGB Matrix"
+  },
+  "39314": {
+    "label": "RGBM\nTogg",
+    "printable": null,
+    "tooltip": "Toggle RGB Matrix on or off"
+  },
+  "39315": {
+    "label": "RGBM\nNext",
+    "printable": null,
+    "tooltip": "Cycle through animations"
+  },
+  "39316": {
+    "label": "RGBM\nPrev",
+    "printable": null,
+    "tooltip": "Cycle through animations in reverse"
+  },
+  "39317": {
+    "label": "RGBM\nHue +",
+    "printable": null,
+    "tooltip": "Cycle through hue"
+  },
+  "39318": {
+    "label": "RGBM\nHue -",
+    "printable": null,
+    "tooltip": "Cycle through hue in reverse"
+  },
+  "39319": {
+    "label": "RGBM\nSat +",
+    "printable": null,
+    "tooltip": "Increase the saturation"
+  },
+  "39320": {
+    "label": "RGBM\nSat -",
+    "printable": null,
+    "tooltip": "Decrease the saturation"
+  },
+  "39321": {
+    "label": "RGBM\nBright +",
+    "printable": null,
+    "tooltip": "Increase the brightness level"
+  },
+  "39322": {
+    "label": "RGBM\nBright -",
+    "printable": null,
+    "tooltip": "Decrease the brightness level"
+  },
+  "39323": {
+    "label": "RGBM\nSpeed +",
+    "printable": null,
+    "tooltip": "Increase the animation speed"
+  },
+  "39324": {
+    "label": "RGBM\nSpeed -",
+    "printable": null,
+    "tooltip": "Decrease the animation speed"
+  },
+  "104": {
+    "label": "F13",
+    "printable": null,
+    "tooltip": null
+  },
+  "105": {
+    "label": "F14",
+    "printable": null,
+    "tooltip": null
+  },
+  "106": {
+    "label": "F15",
+    "printable": null,
+    "tooltip": null
+  },
+  "107": {
+    "label": "F16",
+    "printable": null,
+    "tooltip": null
+  },
+  "108": {
+    "label": "F17",
+    "printable": null,
+    "tooltip": null
+  },
+  "109": {
+    "label": "F18",
+    "printable": null,
+    "tooltip": null
+  },
+  "110": {
+    "label": "F19",
+    "printable": null,
+    "tooltip": null
+  },
+  "111": {
+    "label": "F20",
+    "printable": null,
+    "tooltip": null
+  },
+  "112": {
+    "label": "F21",
+    "printable": null,
+    "tooltip": null
+  },
+  "113": {
+    "label": "F22",
+    "printable": null,
+    "tooltip": null
+  },
+  "114": {
+    "label": "F23",
+    "printable": null,
+    "tooltip": null
+  },
+  "115": {
+    "label": "F24",
+    "printable": null,
+    "tooltip": null
+  },
+  "165": {
+    "label": "Power",
+    "printable": null,
+    "tooltip": "System Power Down"
+  },
+  "166": {
+    "label": "Sleep",
+    "printable": null,
+    "tooltip": "System Sleep"
+  },
+  "167": {
+    "label": "Wake",
+    "printable": null,
+    "tooltip": "System Wake"
+  },
+  "116": {
+    "label": "Exec",
+    "printable": null,
+    "tooltip": "Execute"
+  },
+  "117": {
+    "label": "Help",
+    "printable": null,
+    "tooltip": null
+  },
+  "119": {
+    "label": "Select",
+    "printable": null,
+    "tooltip": null
+  },
+  "120": {
+    "label": "Stop",
+    "printable": null,
+    "tooltip": null
+  },
+  "121": {
+    "label": "Again",
+    "printable": null,
+    "tooltip": null
+  },
+  "122": {
+    "label": "Undo",
+    "printable": null,
+    "tooltip": null
+  },
+  "123": {
+    "label": "Cut",
+    "printable": null,
+    "tooltip": null
+  },
+  "124": {
+    "label": "Copy",
+    "printable": null,
+    "tooltip": null
+  },
+  "125": {
+    "label": "Paste",
+    "printable": null,
+    "tooltip": null
+  },
+  "126": {
+    "label": "Find",
+    "printable": null,
+    "tooltip": null
+  },
+  "178": {
+    "label": "Calc",
+    "printable": null,
+    "tooltip": "Launch Calculator (Windows)"
+  },
+  "177": {
+    "label": "Mail",
+    "printable": null,
+    "tooltip": "Launch Mail (Windows)"
+  },
+  "175": {
+    "label": "Media\nPlayer",
+    "printable": null,
+    "tooltip": "Launch Media Player (Windows)"
+  },
+  "179": {
+    "label": "My\nPC",
+    "printable": null,
+    "tooltip": "Launch My Computer (Windows)"
+  },
+  "180": {
+    "label": "Browser\nSearch",
+    "printable": null,
+    "tooltip": "Browser Search (Windows)"
+  },
+  "181": {
+    "label": "Browser\nHome",
+    "printable": null,
+    "tooltip": "Browser Home (Windows)"
+  },
+  "182": {
+    "label": "Browser\nBack",
+    "printable": null,
+    "tooltip": "Browser Back (Windows)"
+  },
+  "183": {
+    "label": "Browser\nForward",
+    "printable": null,
+    "tooltip": "Browser Forward (Windows)"
+  },
+  "184": {
+    "label": "Browser\nStop",
+    "printable": null,
+    "tooltip": "Browser Stop (Windows)"
+  },
+  "185": {
+    "label": "Browser\nRefresh",
+    "printable": null,
+    "tooltip": "Browser Refresh (Windows)"
+  },
+  "186": {
+    "label": "Browser\nFav.",
+    "printable": null,
+    "tooltip": "Browser Favorites (Windows)"
+  },
+  "189": {
+    "label": "Bright.\nUp",
+    "printable": null,
+    "tooltip": "Increase the brightness of screen (Laptop)"
+  },
+  "190": {
+    "label": "Bright.\nDown",
+    "printable": null,
+    "tooltip": "Decrease the brightness of screen (Laptop)"
+  },
+  "172": {
+    "label": "Media\nPrev",
+    "printable": null,
+    "tooltip": "Previous Track"
+  },
+  "171": {
+    "label": "Media\nNext",
+    "printable": null,
+    "tooltip": "Next Track"
+  },
+  "168": {
+    "label": "Mute",
+    "printable": null,
+    "tooltip": "Mute Audio"
+  },
+  "170": {
+    "label": "Vol -",
+    "printable": null,
+    "tooltip": "Volume Down"
+  },
+  "169": {
+    "label": "Vol +",
+    "printable": null,
+    "tooltip": "Volume Up"
+  },
+  "129": {
+    "label": "Vol -\nAlt",
+    "printable": null,
+    "tooltip": "Volume Down Alternate"
+  },
+  "128": {
+    "label": "Vol +\nAlt",
+    "printable": null,
+    "tooltip": "Volume Up Alternate"
+  },
+  "173": {
+    "label": "Media\nStop",
+    "printable": null,
+    "tooltip": null
+  },
+  "174": {
+    "label": "Media\nPlay",
+    "printable": null,
+    "tooltip": "Play/Pause"
+  },
+  "188": {
+    "label": "Prev\nTrack\n(macOS)",
+    "printable": null,
+    "tooltip": "Previous Track / Rewind (macOS)"
+  },
+  "187": {
+    "label": "Next\nTrack\n(macOS)",
+    "printable": null,
+    "tooltip": "Next Track / Fast Forward (macOS)"
+  },
+  "176": {
+    "label": "Eject",
+    "printable": null,
+    "tooltip": "Eject (macOS)"
+  },
+  "240": {
+    "label": "Mouse\nUp",
+    "printable": null,
+    "tooltip": "Mouse Cursor Up"
+  },
+  "241": {
+    "label": "Mouse\nDown",
+    "printable": null,
+    "tooltip": "Mouse Cursor Down"
+  },
+  "242": {
+    "label": "Mouse\nLeft",
+    "printable": null,
+    "tooltip": "Mouse Cursor Left"
+  },
+  "243": {
+    "label": "Mouse\nRight",
+    "printable": null,
+    "tooltip": "Mouse Cursor Right"
+  },
+  "244": {
+    "label": "Mouse\n1",
+    "printable": null,
+    "tooltip": "Mouse Button 1"
+  },
+  "245": {
+    "label": "Mouse\n2",
+    "printable": null,
+    "tooltip": "Mouse Button 2"
+  },
+  "246": {
+    "label": "Mouse\n3",
+    "printable": null,
+    "tooltip": "Mouse Button 3"
+  },
+  "247": {
+    "label": "Mouse\n4",
+    "printable": null,
+    "tooltip": "Mouse Button 4"
+  },
+  "248": {
+    "label": "Mouse\n5",
+    "printable": null,
+    "tooltip": "Mouse Button 5"
+  },
+  "249": {
+    "label": "Mouse\nWheel\nUp",
+    "printable": null,
+    "tooltip": null
+  },
+  "250": {
+    "label": "Mouse\nWheel\nDown",
+    "printable": null,
+    "tooltip": null
+  },
+  "251": {
+    "label": "Mouse\nWheel\nLeft",
+    "printable": null,
+    "tooltip": null
+  },
+  "252": {
+    "label": "Mouse\nWheel\nRight",
+    "printable": null,
+    "tooltip": null
+  },
+  "253": {
+    "label": "Mouse\nAccel\n0",
+    "printable": null,
+    "tooltip": "Set mouse acceleration to 0"
+  },
+  "254": {
+    "label": "Mouse\nAccel\n1",
+    "printable": null,
+    "tooltip": "Set mouse acceleration to 1"
+  },
+  "255": {
+    "label": "Mouse\nAccel\n2",
+    "printable": null,
+    "tooltip": "Set mouse acceleration to 2"
+  },
+  "130": {
+    "label": "Locking\nCaps",
+    "printable": null,
+    "tooltip": "Locking Caps Lock"
+  },
+  "131": {
+    "label": "Locking\nNum",
+    "printable": null,
+    "tooltip": "Locking Num Lock"
+  },
+  "132": {
+    "label": "Locking\nScroll",
+    "printable": null,
+    "tooltip": "Locking Scroll Lock"
+  },
+  "22272": {
+    "label": "TD(0)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22273": {
+    "label": "TD(1)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22274": {
+    "label": "TD(2)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22275": {
+    "label": "TD(3)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22276": {
+    "label": "TD(4)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22277": {
+    "label": "TD(5)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22278": {
+    "label": "TD(6)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22279": {
+    "label": "TD(7)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22280": {
+    "label": "TD(8)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22281": {
+    "label": "TD(9)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22282": {
+    "label": "TD(10)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22283": {
+    "label": "TD(11)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22284": {
+    "label": "TD(12)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22285": {
+    "label": "TD(13)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22286": {
+    "label": "TD(14)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22287": {
+    "label": "TD(15)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22288": {
+    "label": "TD(16)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22289": {
+    "label": "TD(17)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22290": {
+    "label": "TD(18)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22291": {
+    "label": "TD(19)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22292": {
+    "label": "TD(20)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22293": {
+    "label": "TD(21)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22294": {
+    "label": "TD(22)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22295": {
+    "label": "TD(23)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22296": {
+    "label": "TD(24)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22297": {
+    "label": "TD(25)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22298": {
+    "label": "TD(26)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22299": {
+    "label": "TD(27)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22300": {
+    "label": "TD(28)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22301": {
+    "label": "TD(29)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22302": {
+    "label": "TD(30)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22303": {
+    "label": "TD(31)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22304": {
+    "label": "TD(32)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22305": {
+    "label": "TD(33)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22306": {
+    "label": "TD(34)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22307": {
+    "label": "TD(35)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22308": {
+    "label": "TD(36)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22309": {
+    "label": "TD(37)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22310": {
+    "label": "TD(38)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22311": {
+    "label": "TD(39)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22312": {
+    "label": "TD(40)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22313": {
+    "label": "TD(41)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22314": {
+    "label": "TD(42)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22315": {
+    "label": "TD(43)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22316": {
+    "label": "TD(44)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22317": {
+    "label": "TD(45)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22318": {
+    "label": "TD(46)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22319": {
+    "label": "TD(47)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22320": {
+    "label": "TD(48)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22321": {
+    "label": "TD(49)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22322": {
+    "label": "TD(50)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22323": {
+    "label": "TD(51)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22324": {
+    "label": "TD(52)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22325": {
+    "label": "TD(53)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22326": {
+    "label": "TD(54)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22327": {
+    "label": "TD(55)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22328": {
+    "label": "TD(56)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22329": {
+    "label": "TD(57)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22330": {
+    "label": "TD(58)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22331": {
+    "label": "TD(59)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22332": {
+    "label": "TD(60)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22333": {
+    "label": "TD(61)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22334": {
+    "label": "TD(62)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22335": {
+    "label": "TD(63)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22336": {
+    "label": "TD(64)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22337": {
+    "label": "TD(65)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22338": {
+    "label": "TD(66)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22339": {
+    "label": "TD(67)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22340": {
+    "label": "TD(68)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22341": {
+    "label": "TD(69)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22342": {
+    "label": "TD(70)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22343": {
+    "label": "TD(71)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22344": {
+    "label": "TD(72)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22345": {
+    "label": "TD(73)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22346": {
+    "label": "TD(74)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22347": {
+    "label": "TD(75)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22348": {
+    "label": "TD(76)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22349": {
+    "label": "TD(77)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22350": {
+    "label": "TD(78)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22351": {
+    "label": "TD(79)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22352": {
+    "label": "TD(80)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22353": {
+    "label": "TD(81)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22354": {
+    "label": "TD(82)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22355": {
+    "label": "TD(83)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22356": {
+    "label": "TD(84)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22357": {
+    "label": "TD(85)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22358": {
+    "label": "TD(86)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22359": {
+    "label": "TD(87)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22360": {
+    "label": "TD(88)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22361": {
+    "label": "TD(89)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22362": {
+    "label": "TD(90)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22363": {
+    "label": "TD(91)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22364": {
+    "label": "TD(92)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22365": {
+    "label": "TD(93)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22366": {
+    "label": "TD(94)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22367": {
+    "label": "TD(95)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22368": {
+    "label": "TD(96)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22369": {
+    "label": "TD(97)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22370": {
+    "label": "TD(98)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22371": {
+    "label": "TD(99)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22372": {
+    "label": "TD(100)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22373": {
+    "label": "TD(101)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22374": {
+    "label": "TD(102)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22375": {
+    "label": "TD(103)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22376": {
+    "label": "TD(104)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22377": {
+    "label": "TD(105)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22378": {
+    "label": "TD(106)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22379": {
+    "label": "TD(107)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22380": {
+    "label": "TD(108)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22381": {
+    "label": "TD(109)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22382": {
+    "label": "TD(110)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22383": {
+    "label": "TD(111)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22384": {
+    "label": "TD(112)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22385": {
+    "label": "TD(113)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22386": {
+    "label": "TD(114)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22387": {
+    "label": "TD(115)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22388": {
+    "label": "TD(116)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22389": {
+    "label": "TD(117)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22390": {
+    "label": "TD(118)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22391": {
+    "label": "TD(119)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22392": {
+    "label": "TD(120)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22393": {
+    "label": "TD(121)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22394": {
+    "label": "TD(122)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22395": {
+    "label": "TD(123)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22396": {
+    "label": "TD(124)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22397": {
+    "label": "TD(125)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22398": {
+    "label": "TD(126)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22399": {
+    "label": "TD(127)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22400": {
+    "label": "TD(128)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22401": {
+    "label": "TD(129)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22402": {
+    "label": "TD(130)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22403": {
+    "label": "TD(131)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22404": {
+    "label": "TD(132)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22405": {
+    "label": "TD(133)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22406": {
+    "label": "TD(134)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22407": {
+    "label": "TD(135)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22408": {
+    "label": "TD(136)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22409": {
+    "label": "TD(137)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22410": {
+    "label": "TD(138)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22411": {
+    "label": "TD(139)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22412": {
+    "label": "TD(140)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22413": {
+    "label": "TD(141)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22414": {
+    "label": "TD(142)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22415": {
+    "label": "TD(143)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22416": {
+    "label": "TD(144)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22417": {
+    "label": "TD(145)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22418": {
+    "label": "TD(146)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22419": {
+    "label": "TD(147)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22420": {
+    "label": "TD(148)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22421": {
+    "label": "TD(149)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22422": {
+    "label": "TD(150)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22423": {
+    "label": "TD(151)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22424": {
+    "label": "TD(152)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22425": {
+    "label": "TD(153)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22426": {
+    "label": "TD(154)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22427": {
+    "label": "TD(155)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22428": {
+    "label": "TD(156)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22429": {
+    "label": "TD(157)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22430": {
+    "label": "TD(158)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22431": {
+    "label": "TD(159)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22432": {
+    "label": "TD(160)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22433": {
+    "label": "TD(161)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22434": {
+    "label": "TD(162)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22435": {
+    "label": "TD(163)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22436": {
+    "label": "TD(164)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22437": {
+    "label": "TD(165)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22438": {
+    "label": "TD(166)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22439": {
+    "label": "TD(167)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22440": {
+    "label": "TD(168)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22441": {
+    "label": "TD(169)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22442": {
+    "label": "TD(170)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22443": {
+    "label": "TD(171)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22444": {
+    "label": "TD(172)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22445": {
+    "label": "TD(173)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22446": {
+    "label": "TD(174)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22447": {
+    "label": "TD(175)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22448": {
+    "label": "TD(176)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22449": {
+    "label": "TD(177)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22450": {
+    "label": "TD(178)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22451": {
+    "label": "TD(179)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22452": {
+    "label": "TD(180)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22453": {
+    "label": "TD(181)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22454": {
+    "label": "TD(182)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22455": {
+    "label": "TD(183)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22456": {
+    "label": "TD(184)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22457": {
+    "label": "TD(185)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22458": {
+    "label": "TD(186)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22459": {
+    "label": "TD(187)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22460": {
+    "label": "TD(188)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22461": {
+    "label": "TD(189)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22462": {
+    "label": "TD(190)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22463": {
+    "label": "TD(191)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22464": {
+    "label": "TD(192)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22465": {
+    "label": "TD(193)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22466": {
+    "label": "TD(194)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22467": {
+    "label": "TD(195)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22468": {
+    "label": "TD(196)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22469": {
+    "label": "TD(197)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22470": {
+    "label": "TD(198)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22471": {
+    "label": "TD(199)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22472": {
+    "label": "TD(200)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22473": {
+    "label": "TD(201)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22474": {
+    "label": "TD(202)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22475": {
+    "label": "TD(203)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22476": {
+    "label": "TD(204)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22477": {
+    "label": "TD(205)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22478": {
+    "label": "TD(206)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22479": {
+    "label": "TD(207)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22480": {
+    "label": "TD(208)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22481": {
+    "label": "TD(209)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22482": {
+    "label": "TD(210)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22483": {
+    "label": "TD(211)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22484": {
+    "label": "TD(212)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22485": {
+    "label": "TD(213)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22486": {
+    "label": "TD(214)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22487": {
+    "label": "TD(215)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22488": {
+    "label": "TD(216)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22489": {
+    "label": "TD(217)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22490": {
+    "label": "TD(218)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22491": {
+    "label": "TD(219)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22492": {
+    "label": "TD(220)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22493": {
+    "label": "TD(221)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22494": {
+    "label": "TD(222)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22495": {
+    "label": "TD(223)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22496": {
+    "label": "TD(224)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22497": {
+    "label": "TD(225)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22498": {
+    "label": "TD(226)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22499": {
+    "label": "TD(227)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22500": {
+    "label": "TD(228)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22501": {
+    "label": "TD(229)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22502": {
+    "label": "TD(230)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22503": {
+    "label": "TD(231)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22504": {
+    "label": "TD(232)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22505": {
+    "label": "TD(233)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22506": {
+    "label": "TD(234)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22507": {
+    "label": "TD(235)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22508": {
+    "label": "TD(236)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22509": {
+    "label": "TD(237)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22510": {
+    "label": "TD(238)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22511": {
+    "label": "TD(239)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22512": {
+    "label": "TD(240)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22513": {
+    "label": "TD(241)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22514": {
+    "label": "TD(242)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22515": {
+    "label": "TD(243)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22516": {
+    "label": "TD(244)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22517": {
+    "label": "TD(245)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22518": {
+    "label": "TD(246)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22519": {
+    "label": "TD(247)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22520": {
+    "label": "TD(248)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22521": {
+    "label": "TD(249)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22522": {
+    "label": "TD(250)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22523": {
+    "label": "TD(251)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22524": {
+    "label": "TD(252)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22525": {
+    "label": "TD(253)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22526": {
+    "label": "TD(254)",
+    "printable": null,
+    "tooltip": null
+  },
+  "22527": {
+    "label": "TD(255)",
+    "printable": null,
+    "tooltip": null
+  }
+}

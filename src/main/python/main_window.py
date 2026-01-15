@@ -3,7 +3,8 @@ import logging
 import platform
 from json import JSONDecodeError
 
-from PyQt5.QtCore import Qt, QSettings, QStandardPaths, QTimer, QRect, QT_VERSION_STR
+from PyQt5.QtCore import Qt, QSettings, QStandardPaths, QTimer, QRect, QT_VERSION_STR, QSizeF, QMarginsF
+from PyQt5.QtGui import QPainter, QPdfWriter, QPageLayout, QPageSize
 from PyQt5.QtWidgets import QWidget, QComboBox, QToolButton, QHBoxLayout, QVBoxLayout, QMainWindow, QAction, qApp, \
     QFileDialog, QDialog, QTabWidget, QActionGroup, QMessageBox, QLabel
 
@@ -68,10 +69,16 @@ class MainWindow(QMainWindow):
         self.btn_refresh_devices.setText(tr("MainWindow", "Refresh"))
         self.btn_refresh_devices.clicked.connect(self.on_click_refresh)
 
+        self.btn_export_pdf = QToolButton()
+        self.btn_export_pdf.setToolButtonStyle(Qt.ToolButtonTextOnly)
+        self.btn_export_pdf.setText(tr("MainWindow", "Export PDF"))
+        self.btn_export_pdf.clicked.connect(self.on_export_pdf)
+
         layout_combobox = QHBoxLayout()
         layout_combobox.addWidget(self.combobox_devices)
         if sys.platform != "emscripten":
             layout_combobox.addWidget(self.btn_refresh_devices)
+            layout_combobox.addWidget(self.btn_export_pdf)
 
         self.layout_editor = LayoutEditor()
         self.keymap_editor = KeymapEditor(self.layout_editor)
@@ -165,6 +172,9 @@ class MainWindow(QMainWindow):
         download_via_stack_act = QAction(tr("MenuFile", "Download VIA definitions"), self)
         download_via_stack_act.triggered.connect(self.load_via_stack_json)
 
+        export_pdf_act = QAction(tr("MenuFile", "Export Layout to PDF..."), self)
+        export_pdf_act.triggered.connect(self.on_export_pdf)
+
         load_dummy_act = QAction(tr("MenuFile", "Load dummy JSON..."), self)
         load_dummy_act.triggered.connect(self.on_load_dummy)
 
@@ -180,6 +190,7 @@ class MainWindow(QMainWindow):
             file_menu.addSeparator()
             file_menu.addAction(sideload_json_act)
             file_menu.addAction(download_via_stack_act)
+            file_menu.addAction(export_pdf_act)
             file_menu.addAction(load_dummy_act)
             file_menu.addSeparator()
             file_menu.addAction(exit_act)
@@ -281,6 +292,82 @@ class MainWindow(QMainWindow):
             if dialog.exec_() == QDialog.Accepted:
                 with open(dialog.selectedFiles()[0], "wb") as outf:
                     outf.write(self.keymap_editor.save_layout())
+
+    def on_export_pdf(self):
+        filename, _ = QFileDialog.getSaveFileName(self, "Export PDF", "layout.pdf", "PDF Files (*.pdf)")
+        if not filename:
+            return
+
+        writer = QPdfWriter(filename)
+        writer.setPageSize(QPageSize(QPageSize.A4))
+        writer.setPageOrientation(QPageLayout.Landscape)
+        writer.setCreator("Vial-GUI")
+        writer.setTitle("Keyboard Layout")
+
+        # Get the widget to draw
+        widget = self.layout_editor.keyboard_preview
+        
+        # Calculate scale to fit page
+        # A4 Landscape in mm is approx 297 x 210
+        # QPdfWriter default resolution is 1200 DPI? Or we can check.
+        # Ideally using painter units.
+        
+        painter = QPainter(writer)
+        
+        # Logic to scale:
+        # We need the aspect ratio of the keyboard.
+        # We fit it into the page rectangle with some margin.
+        
+        page_rect = writer.pageLayout().paintRectPixels(writer.resolution())
+        
+        # Original scale calculation
+        # The widget tracks its own "scale" which is essentially pixels per unit.
+        # We want to find a scale such that the keyboard width fits in page_width
+        # and keyboard height fits in page_height.
+        
+        # Save current state
+        original_scale = widget.get_scale()
+        
+        # Layout update to get dimensions at "scale=1.0" (base units)
+        widget.set_scale(1.0)
+        widget.update_layout()
+        base_width = widget.width
+        base_height = widget.height
+        
+        # Determine target scale
+        # We want (base_width * scale) <= page_rect.width()
+        # and (base_height * scale) <= page_rect.height()
+        
+        scale_x = page_rect.width() / base_width
+        scale_y = page_rect.height() / base_height
+        
+        target_scale = min(scale_x, scale_y) * 0.95 # 95% to be safe
+        
+        widget.set_scale(target_scale)
+        widget.update_layout()
+        
+        # Center the keyboard on the page
+        # The widget draws starting at (0,0) (or close to it with padding).
+        # We can translate the painter.
+        
+        kb_width = widget.width
+        kb_height = widget.height
+        
+        x_offset = (page_rect.width() - kb_width) / 2
+        y_offset = (page_rect.height() - kb_height) / 2
+        
+        painter.translate(x_offset, y_offset)
+        
+        # Draw
+        widget.draw(painter)
+        
+        painter.end()
+        
+        # Restore original state
+        widget.set_scale(original_scale)
+        widget.update_layout()
+        
+        QMessageBox.information(self, "Export PDF", "Layout exported successfully!")
 
     def on_click_refresh(self):
         self.autorefresh.update(quiet=False, hard=True)

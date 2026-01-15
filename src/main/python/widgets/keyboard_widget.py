@@ -362,6 +362,10 @@ class KeyboardWidget(QWidget):
     def paintEvent(self, event):
         qp = QPainter()
         qp.begin(self)
+        self.draw(qp)
+        qp.end()
+
+    def draw(self, qp):
         qp.setRenderHint(QPainter.Antialiasing)
 
         # for regular keycaps
@@ -469,8 +473,6 @@ class KeyboardWidget(QWidget):
             qp.drawPath(key.extra_draw_path)
 
             qp.restore()
-
-        qp.end()
 
     def minimumSizeHint(self):
         return QSize(self.width, self.height)
